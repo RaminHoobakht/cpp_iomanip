@@ -1,0 +1,2 @@
+#define cpp_iomanip_VERSION_MAJOR @cpp_iomanip_VERSION_MAJOR@
+#define cpp_iomanip_VERSION_MINOR @cpp_iomanip_VERSION_MINOR@
